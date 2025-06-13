@@ -4,8 +4,7 @@
   "restricted": false,
   "overridable": true,
   "files": [
-    "window.bin",
-    "thumbnail.png"
+    "window.bin"
   ],
   "attributes": {
     "lastModification": {
@@ -13,7 +12,6 @@
       "timestamp": "2025-06-13T20:28:04Z"
     },
     "xml-format-version": 1,
-    "open-on-start": true,
-    "lastModificationSignature": "dd0922446de804b596a4f4cf8785d8a2cfd77eaac20ef1693d1796190e5b21d6"
+    "lastModificationSignature": "7c98076f03ba6470f90c9389a097aba8a1df9c69418b0a3bbc878ba7a0c13468"
   }
 }
