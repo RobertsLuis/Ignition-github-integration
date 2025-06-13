@@ -1,0 +1,6 @@
+{
+  "title": "GitDemo",
+  "description": "Testing Git Module",
+  "enabled": true,
+  "inheritable": false
+}
