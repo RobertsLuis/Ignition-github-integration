@@ -1,0 +1,19 @@
+{
+  "scope": "C",
+  "version": 2,
+  "restricted": false,
+  "overridable": true,
+  "files": [
+    "window.bin",
+    "thumbnail.png"
+  ],
+  "attributes": {
+    "lastModification": {
+      "actor": "roberto.junior",
+      "timestamp": "2025-06-13T13:30:02Z"
+    },
+    "xml-format-version": 1,
+    "open-on-start": true,
+    "lastModificationSignature": "a519679a728c3d26359ecdd061ed1c36e080ef38c6d5fd73afbd06d2d0a4af4e"
+  }
+}
